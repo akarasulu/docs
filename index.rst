@@ -1,12 +1,11 @@
-.. Subutai and Hub User Guide documentation master file, created by
-   sphinx-quickstart on Thu Aug 25 23:01:37 2016.
+.. Subutai unified documentation master file.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 Subutai Documentation
 =====================
 
-Welcome to the Peer-to-Peer Social Cloud Computing Revolution!
+Welcome to the Peer-to-Peer Cloud and Fog Computing Revolution!
 
 Contents:
 
@@ -31,9 +30,7 @@ Contents:
    subutai/getting-started
    subutai/agent
    subutai/p2p
-   subutai/network
    subutai/containers
-   subutai/cotnainer-backup
    subutai/build-template
 
 .. _hub-section:
